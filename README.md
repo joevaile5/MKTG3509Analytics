@@ -1,5 +1,5 @@
 # MKTG3509Analytics Portfolio
-This is a portfolio of my assignments in MKTG 3509, Customer Data Analytics in the Fox School of Business at Temple University.
+This is a portfolio of my assignments in MKTG 3509, Customer Data Analytics in the Fox School of Business at Temple University. There were 11 assignments, one for each module.
 
 ## My Resume
 - [Resume](https://colab.research.google.com/drive/1zLl_AYV2SK8lWT3pP_MI5mIOSONJpvCx?usp=sharing)
